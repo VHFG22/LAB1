@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LAB1</string>
+    <string name="app_name">LAB 1</string>
+    <string name="text_label">Welcome to this app</string>
+    <string name="submit">Submit</string>
+    <string name="toast">This is a toast message</string>
 </resources>
